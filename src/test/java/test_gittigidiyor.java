@@ -24,7 +24,7 @@ public class test_gittigidiyor {
 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        wait = new WebDriverWait(driver, 20);// verilen görevi yapması için 3 saniye bekliyor.
+        wait = new WebDriverWait(driver, 20);
 
     }
 
